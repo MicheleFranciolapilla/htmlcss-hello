@@ -1,7 +1,13 @@
 /* settaggio degli attributi di stile */
+/* per il titolo */
 h1{
     color: blue;
     font-family: Verdana;
     text-align: center;
     text-decoration: underline;
+}
+
+/* e per il paragrafo */
+p{
+    color: black;
 }
