@@ -1,5 +1,7 @@
+/* settaggio degli attributi di stile */
 h1{
     color: blue;
     font-family: Verdana;
     text-align: center;
+    text-decoration: underline;
 }
